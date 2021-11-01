@@ -1,2 +1,2 @@
-# exam
-exam repo for the ca of int331
+# test
+test repo for the ca of int331
